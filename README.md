@@ -1,2 +1,2 @@
-# Unity-Collab-Github
-try unity control version with github
+# Unity-Collab-Git
+try unity control version with git
